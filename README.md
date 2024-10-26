@@ -15,9 +15,16 @@ Here are some ideas to get you started:
 
 ### Hi there 🖐️
 
-I'm a passionate Java Spring Backend Developer. 
+I'm a passionate Java Spring Backend Developer
 
 and with a focus on building efficient and scalable web applications.
+
+📘 Currently Studying: Java, Spring, AWS, databases, and Docker
+
+🌟 Interested in: Kubernetes, Microservices Architecture (MSA)
+
+🚀 Aspiring to Learn: Frontend Development, Diverse Programming Languages
+
 
 
 
