@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 🖐️
 ---
+[Email](mailto:aogn07@gmail.com)
 
 I'm a passionate Java Spring Backend Developer
 
@@ -26,6 +27,8 @@ and with a focus on building efficient and scalable web applications.
 🌟 Interested in: Kubernetes, Microservices Architecture (MSA)
 
 🚀 Aspiring to Learn: Frontend Development, Diverse Programming Languages
+
+
 
 
 
