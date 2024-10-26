@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 ### Hi there 🖐️
 ---
 <a href="mailto:aogn07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-aogn07%40gmail.com-EA4335?style=for-the-square&logo=gmail&logoColor=white"/></a>
-
 <a href="https://sungwonjeong.github.io/" target="_blank"><img src="https://img.shields.io/badge/-blog-000000?style=for-the-square&logo=bloglovin&logoColor=white"/></a>
 
 
