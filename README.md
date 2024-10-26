@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm [Sung Won Jeong] 🖐️
+### Hi there 🖐️
 
-I'm a passionate Java Spring Backend Developer with a focus on building efficient and scalable web applications.
+I'm a passionate Java Spring Backend Developer
+and with a focus on building efficient and scalable web applications.
 
 
 
