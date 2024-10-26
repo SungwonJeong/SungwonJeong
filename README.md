@@ -17,17 +17,22 @@ Here are some ideas to get you started:
 ---
 [Email](mailto:aogn07@gmail.com)
 
-I'm a passionate Java Spring Backend Developer
+I'm a passionate **Java Spring Backend Developer** at **QuantizeLabs**, focusing on building efficient and scalable web applications.
 
-and with a focus on building efficient and scalable web applications.
+📘 **Currently Studying:**
+- Java
+- Spring
+- AWS
+- Databases
+- Docker
 
-now I'm working QuantizeLabs
+🌟 **Interested in:**
+- Kubernetes
+- Microservices Architecture (MSA)
 
-📘 Currently Studying: Java, Spring, AWS, databases, and Docker
-
-🌟 Interested in: Kubernetes, Microservices Architecture (MSA)
-
-🚀 Aspiring to Learn: Frontend Development, Diverse Programming Languages
+🚀 **Aspiring to Learn:**
+- Frontend Development
+- Diverse Programming Languages
 
 
 
