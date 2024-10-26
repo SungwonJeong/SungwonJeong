@@ -10,7 +10,7 @@ Interested in Kubernetes, Microservices Architecture
 
 Aspiring to Learn Frontend Development, Diverse Programming Languages (javascript, python)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aogn07@naver.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SungwonJeong&show_icons=true&theme=radical)
 
 
 
