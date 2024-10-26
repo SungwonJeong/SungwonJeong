@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello 🖐️
+## Hi there, I'm [Sung Won Jeong] 🖐️
 
 I'm a passionate Java Spring Backend Developer with a focus on building efficient and scalable web applications.
 
