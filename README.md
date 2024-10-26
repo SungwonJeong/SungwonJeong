@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 🖐️
 ---
-<a href="mailto:aogn07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-aogn07%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a>
+<a href="mailto:aogn07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/aogn07%40gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=EA4335"/></a>
 
 
 I'm a passionate **Java Spring Backend Developer** at **QuantizeLabs**, focusing on building efficient and scalable web applications.
