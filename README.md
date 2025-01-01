@@ -1,8 +1,9 @@
 Hi there! 🖐️
 
 I’m a **backend developer** specializing in **Java** and **Spring Framework**
+---
 
-💡 Interests  
+### 💡 Interests  
 - Scalable System Design & Architecture  
 - Backend-Frontend Integration  
 - Cloud-Native Applications  
