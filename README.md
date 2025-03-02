@@ -1,4 +1,4 @@
-I’m a **backend developer** specializing in **Java** and **Spring Framework** 👋
+I’m a **backend developer** specializing in **Java** and **Spring Framework**
 
 ---
 
